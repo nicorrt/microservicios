@@ -55,7 +55,7 @@ public class UsuarioService {
 	}
 
 	/**
-	 * 
+	 * Método que guarda un coche a través del micro servicio
 	 * @param usuarioId
 	 * @param coche
 	 * @return
@@ -67,7 +67,7 @@ public class UsuarioService {
 	}
 
 	/**
-	 * 
+	 * Método que guarda una moto través del micro servicio
 	 * @param usuarioId
 	 * @param moto
 	 * @return
